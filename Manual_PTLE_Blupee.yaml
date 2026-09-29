@@ -1,8 +1,0 @@
-name: Blupee
-description: Default template created by the Manual Builder tool
-
-game: Manual_PTLE_Blupee
-
-Manual_PTLE_Blupee:
-    progression_balancing: 50
-    accessibility: items
