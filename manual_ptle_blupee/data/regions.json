@@ -1,0 +1,275 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Abandoned Cavern": {
+    "connects_to": [
+      "Underground Dam",
+      "Crystal Cavern"
+    ],
+    "requires": "|Raft| OR |TNT|"
+  },
+  "Altar of Huitiaca": {
+    "starting": true,
+    "connects_to": [
+      "Great Tree",
+      "Native Jungle",
+      "Battered Bridge",
+      "Mouth of Inti"
+    ],
+    "requires": ""
+  },
+  "Apu Illapu Shrine": {
+    "connects_to": [
+      "Mountain Sled Run"
+    ],
+    "requires": "|Raft| "
+  },
+  "Battered Bridge": {
+    "connects_to": [
+      "Altar of Huitiaca",
+      "Mama Oullo"
+    ],
+    "requires": "|Torch| OR |OOB|"
+  },
+  "Bittenbinders Camp": {
+    "starting": true,
+    "connects_to": [
+      "Statues of Ayar",
+      "Renegade Fort"
+    ],
+    "requires": ""
+  },
+  "Butterfly Glade": {
+    "connects_to": [
+      "Turtle Monument",
+      "Renegade Fort"
+    ],
+    "requires": "|MONKE| or (|OOB| and |TRIPPLE JUMP|) or (|Pickaxes| and |TAZZING|) or |TNT| or |Shield|"
+  },
+  "Cavern Lake": {
+    "connects_to": [
+      "White Valley"
+    ],
+    "requires": ""
+  },
+  "Copacanti Lake": {
+    "connects_to": [
+      "Valley of Spirits",
+      "Mountain Sled Run"
+    ],
+    "requires": ""
+  },
+  "Crash Site": {
+    "starting": true,
+    "connects_to": [
+      "Plane Cockpit",
+      "Jungle Canyon"
+    ],
+    "requires": ""
+  },
+  "Crystal Cavern": {
+    "connects_to": [
+      "Eyes of Doom",
+      "Abandoned Cavern"
+    ],
+    "requires": ""
+  },
+  "Eyes of Doom": {
+    "connects_to": [
+      "Crystal Cavern",
+      "Mountain Overlook"
+    ],
+    "requires": ""
+  },
+  "Fire Bombed Towers": {
+    "connects_to": [
+      "Mama Oullo"
+    ],
+    "requires": "|Sprint| OR |HITBOX CLIPPING|"
+  },
+  "Flooded Courtyard": {
+    "connects_to": [
+      "Jungle Trail",
+      "Twin Outposts",
+      "St Claires"
+    ],
+    "requires": "|Torch| OR |DARK ROOM| or (|TNT| and |Sprint|) or (|TNT| and |TRIPPLE JUMP|) or (|Shield| and |Sprint|) or (|Shield| and |TRIPPLE JUMP|)"
+  },
+  "Great Tree": {
+    "starting": true,
+    "connects_to": [
+      "Altar of Huitiaca",
+      "Statues of Ayar"
+    ],
+    "requires": ""
+  },
+  "Jungle Canyon": {
+    "starting": true,
+    "connects_to": [
+      "Crash Site",
+      "Punchau Shrine"
+    ],
+    "requires": ""
+  },
+  "Jungle Trail": {
+    "connects_to": [
+      "Mama Oullo",
+      "Flooded Courtyard"
+    ],
+    "requires": "|Torch| OR |OOB| OR (|Pickaxes| AND |TAZZING|) or |Torch| OR |DARK ROOM| or (|TNT| and |Sprint|) or (|TNT| and |TRIPPLE JUMP|) or (|Shield| and |Sprint|) or (|Shield| and |TRIPPLE JUMP|)"
+  },
+  "Mama Oullo": {
+    "connects_to": [
+      "Battered Bridge",
+      "Fire Bombed Towers",
+      "Jungle Trail",
+      "Penguin Den"
+    ],
+    "requires": "|Torch| OR |OOB| OR (|Pickaxes| AND |TAZZING|)"
+  },
+  "Mountain Overlook": {
+    "connects_to": [
+      "Eyes of Doom"
+    ],
+    "requires": "|SCORPION| OR (|Pickaxes| AND |TAZZING|)"
+  },
+  "Mountain Sled Run": {
+    "connects_to": [
+      "Copacanti Lake",
+      "Apu Illapu Shrine"
+    ],
+    "requires": "(|Sling| AND |Pickaxes|) OR |OOB| OR |TNT|"
+  },
+  "Mouth of Inti": {
+    "connects_to": [
+      "Altar of Huitiaca"
+    ],
+    "requires": "|Sling| OR |HITBOX CLIPPING|"
+  },
+  "Native Jungle": {
+    "starting": true,
+    "connects_to": [
+      "Plane Cockpit",
+      "Altar of Huitiaca"
+    ],
+    "requires": ""
+  },
+  "Penguin Den": {
+    "connects_to": [
+      "Mama Oullo",
+      "White Valley"
+    ],
+    "requires": "|Gas Mask| OR |TNT|"
+  },
+  "Plane Cockpit": {
+    "starting": true,
+    "connects_to": [
+      "Punchau Shrine",
+      "Crash Site",
+      "Jungle Trail"
+    ],
+    "requires": ""
+  },
+  "Punchau Shrine": {
+    "starting": true,
+    "connects_to": [
+      "Jungle Canyon",
+      "Plane Cockpit"
+    ],
+    "requires": ""
+  },
+  "Renegade Fort": {
+    "connects_to": [
+      "Bittenbinders Camp",
+      "Butterfly Glade",
+      "Renegade Headquarters"
+    ],
+    "requires": "|Shield| OR |TNT| OR |Gas Mask| OR |OOB|"
+  },
+  "Renegade Headquarters": {
+    "connects_to": [
+      "Renegade Fort"
+    ],
+    "requires": ""
+  },
+  "Spinjas Lair": {
+    "connects_to": [
+      "White Valley",
+      "Viracocha Monoliths"
+    ],
+    "requires": "|Raft| AND |Pickaxes|"
+  },
+  "Statues of Ayar": {
+    "starting": true,
+    "connects_to": [
+      "Great Tree",
+      "Bittenbinders Camp"
+    ],
+    "requires": ""
+  },
+  "St Claires": {
+    "connects_to": [
+      "Flooded Courtyard"
+    ],
+    "requires": "|TNT|"
+  },
+  "Turtle Monument": {
+    "connects_to": [
+      "Twin Outposts",
+      "Butterfly Glade",
+      "Native Village"
+    ],
+    "requires": "|Sprint| OR |TRIPPLE JUMP| OR |OOB| OR |TNT| or |Shield|"
+  },
+  "Twin Outposts": {
+    "connects_to": [
+      "Flooded Courtyard",
+      "Turtle Monument"
+    ],
+    "requires": "|MONKE| OR (|OOB| and |TRIPPLE JUMP|) or (|Pickaxes| AND |TAZZING|) or |TNT| or |Shield|"
+  },
+  "Underground Dam": {
+    "connects_to": [
+      "Jungle Canyon",
+      "Abandoned Cavern"
+    ],
+    "requires": "|Raft| OR |TNT|"
+  },
+  "Valley of Spirits": {
+    "connects_to": [
+      "Viracocha Monoliths",
+      "Ekko Ice Cavern",
+      "Copacanti Lake"
+    ],
+    "requires": "|PENGUIN| OR |OOB| OR (|Pickaxes| AND |TAZZING|)"
+  },
+  "Viracocha Monoliths": {
+    "connects_to": [
+      "Valley of Spirits",
+      "Spinjas Lair"
+    ],
+    "requires": "|Raft| AND |Pickaxes|"
+  },
+  "White Valley": {
+    "connects_to": [
+      "Penguin Den",
+      "Spinjas Lair",
+      "Mountain Sled Run",
+      "Cavern Lake"
+    ],
+    "starting": false,
+    "requires": ""
+  },
+  "Native Village": {
+    "starting": false,
+    "connects_to": [
+      "Turtle Monument"
+    ],
+    "requires": ""
+  },
+  "Ekko Ice Cavern": {
+    "connects_to": [
+      "Valley of Spirits"
+    ],
+    "requires": "|TNT| OR (|Pickaxes| AND |TAZZING|)"
+  }
+}

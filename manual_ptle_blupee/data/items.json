@@ -1,0 +1,209 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "TNT",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Sling",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Shield",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pickaxes",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Torch",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Gas Mask",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Raft",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Canteen",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Breakdance",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rising Strike",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Smash Strike",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sprint",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mystery item",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dive",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Stink Bomb",
+      "category": [],
+      "useful": true
+    },
+    {
+      "count": "66",
+      "name": "Idol",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": "15",
+      "name": "Explorer Idol",
+      "category": [],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "OOB",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "TAZZING",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "TRIPPLE JUMP",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "HITBOX CLIPPING",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "INVISIBLE LOADZONE",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "PICKAXE TRICKS",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "NPC MANIP",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "DARK ROOM",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "RAFT JUMP",
+      "category": [],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Altar",
+      "category": [
+        "Altar"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chameleon",
+      "category": [
+        "Chameleon"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "St Claire",
+      "category": [
+        "St Claire"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "MONKE",
+      "category": [
+        "MONKE"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "SCORPION",
+      "category": [
+        "SCORPION"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "PENGUIN",
+      "category": [
+        "PENGUIN"
+      ],
+      "progression": true
+    }
+  ]
+}

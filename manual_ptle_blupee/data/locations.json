@@ -1,0 +1,910 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Abandoned Cavern quick sand idol",
+      "region": "Abandoned Cavern",
+      "category": [
+        "Abandoned Cavern"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Abandoned Cavern",
+      "name": "Abandoned Cavern Upper grate idol",
+      "category": [
+        "Abandoned Cavern"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Abandoned Cavern",
+      "name": "Abandoned Cavern Explorer ",
+      "category": [
+        "Abandoned Cavern"
+      ],
+      "requires": "(|TNT| OR |Smash Strike|)"
+    },
+    {
+      "region": "Altar of Huitiaca",
+      "name": "Idol Below the Pyramid",
+      "category": [
+        "Altar of Huitiaca"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Altar of Huitiaca",
+      "name": "Health upgrade",
+      "category": [
+        "Altar of Huitiaca"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Altar of Huitiaca",
+      "name": "Lava idol",
+      "category": [
+        "Altar of Huitiaca"
+      ],
+      "requires": "|Sprint| OR (|Pickaxes| AND |PICKAXE TRICKS|)"
+    },
+    {
+      "region": "Crash Site",
+      "name": "Idol in front of Pitfall",
+      "category": [
+        "Crash Site"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Crash Site",
+      "name": "Idol in front of the entrance to Plane Cockpit",
+      "category": [
+        "Crash Site"
+      ],
+      "requires": "(|Rising Strike| OR |TRIPPLE JUMP|)"
+    },
+    {
+      "region": "Crash Site",
+      "name": "Explorer inside the cage",
+      "category": [
+        "Crash Site"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Idol on the crocodile island",
+      "region": "Jungle Canyon",
+      "category": [
+        "Jungle Canyon"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Idol Behind the waterfall",
+      "region": "Jungle Canyon",
+      "category": [
+        "Jungle Canyon"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Health upgrade. ",
+      "region": "Jungle Canyon",
+      "category": [
+        "Jungle Canyon"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Punchau Shrine",
+      "name": "Mystery Idol",
+      "category": [
+        "Punchau Shrine"
+      ],
+      "requires": "(|Torch| AND |Mystery item|) OR (|TAZZING| and |Pickaxes| and |Mystery item|)"
+    },
+    {
+      "region": "Punchau Shrine",
+      "name": "Idol in the skull",
+      "category": [
+        "Punchau Shrine"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Explorer behind the cobweb",
+      "region": "Punchau Shrine",
+      "category": [
+        "Punchau Shrine"
+      ],
+      "requires": "|Torch|"
+    },
+    {
+      "name": "Canteen",
+      "region": "Plane Cockpit",
+      "category": [
+        "Plane cockpit"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Health upgrade ..",
+      "region": "Plane Cockpit",
+      "category": [
+        "Plane cockpit"
+      ],
+      "requires": "(|Rising Strike| OR |TRIPPLE JUMP|)"
+    },
+    {
+      "region": "Native Jungle",
+      "name": "Vine idol",
+      "category": [
+        "Native Jungle"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Mouth of Inti",
+      "name": "Idol in statue",
+      "category": [
+        "Mouth of Inti"
+      ],
+      "requires": "|TNT| OR |NPC MANIP|"
+    },
+    {
+      "region": "Mouth of Inti",
+      "name": "Torch",
+      "category": [
+        "Mouth of Inti"
+      ],
+      "requires": "|Sling|"
+    },
+    {
+      "region": "Great Tree",
+      "name": "Idol at the top of the tree",
+      "category": [
+        "Great Tree"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Health upgrade ...",
+      "region": "Great Tree",
+      "category": [
+        "Great Tree"
+      ],
+      "requires": "|Gas Mask| OR |TNT|"
+    },
+    {
+      "region": "Statues of Ayar",
+      "name": "Idol under rubble",
+      "category": [
+        "Statues of Ayar"
+      ],
+      "requires": "|Smash Strike| OR |TNT|"
+    },
+    {
+      "region": "Statues of Ayar",
+      "name": "Idol on the ledge",
+      "category": [
+        "Statues of Ayar"
+      ],
+      "requires": "|Rising Strike| OR |TRIPPLE JUMP|"
+    },
+    {
+      "name": "Idol on hill",
+      "region": "Bittenbinders Camp",
+      "category": [
+        "Bittenbinders Camp"
+      ],
+      "requires": "|Rising Strike| OR |TRIPPLE JUMP|"
+    },
+    {
+      "name": "Idol in gas",
+      "region": "Bittenbinders Camp",
+      "category": [
+        "Bittenbinders Camp"
+      ],
+      "requires": "|Gas Mask| OR |TNT| OR (|TRIPPLE JUMP| AND |OOB|)"
+    },
+    {
+      "name": "Rising Strike",
+      "region": "Bittenbinders Camp",
+      "category": [
+        "Bittenbinders Camp"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sling",
+      "region": "Bittenbinders Camp",
+      "category": [
+        "Bittenbinders Camp"
+      ],
+      "requires": "|Rising Strike|"
+    },
+    {
+      "name": "Altar Of Ages",
+      "region": "Bittenbinders Camp",
+      "category": [
+        "Bittenbinders Camp"
+      ],
+      "requires": "|OOB| OR |Chameleon|"
+    },
+    {
+      "name": "Health upgrade ....",
+      "region": "Battered Bridge",
+      "category": [
+        "Battered Bridge"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bird idol",
+      "region": "Battered Bridge",
+      "category": [
+        "Battered Bridge"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Mama Oullo",
+      "name": "Idol on the arch",
+      "category": [
+        "Mama Oullo"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Canteen upgrade .",
+      "region": "Mama Oullo",
+      "category": [
+        "Mama Oullo"
+      ],
+      "requires": "(|TNT| OR |Smash Strike|) and (|TRIPPLE JUMP| OR |Rising Strike|) AND |Canteen|"
+    },
+    {
+      "region": "Jungle Trail",
+      "name": "Hit the monkey idol",
+      "category": [
+        "Jungle Trail"
+      ],
+      "requires": "|TRIPPLE JUMP| OR |TNT| OR |Sling|"
+    },
+    {
+      "name": "Idol in the monke pit",
+      "region": "Jungle Trail",
+      "category": [
+        "Jungle Trail"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Explorer behind the pillar",
+      "region": "Jungle Trail",
+      "category": [
+        "Jungle Trail"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Idol on the lower ledge",
+      "region": "Flooded Courtyard",
+      "category": [
+        "Flooded Courtyard"
+      ],
+      "requires": "|Sprint| OR (|OOB| AND |TRIPPLE JUMP|) OR |NPC MANIP| OR |Pickaxes|"
+    },
+    {
+      "name": "Beat the monkey temple",
+      "region": "Flooded Courtyard",
+      "category": [
+        "Flooded Courtyard"
+      ],
+      "requires": "|Torch| OR |OOB|"
+    },
+    {
+      "name": "Free the explorer in the upper cage",
+      "region": "Flooded Courtyard",
+      "category": [
+        "Flooded Courtyard"
+      ],
+      "requires": "|Pickaxes| OR (|OOB| AND |TRIPPLE JUMP|) OR |NPC MANIP|"
+    },
+    {
+      "name": "Idol in the pillar",
+      "region": "Flooded Courtyard",
+      "category": [
+        "Flooded Courtyard"
+      ],
+      "requires": "|TNT| OR |NPC MANIP|"
+    },
+    {
+      "name": "Sprint",
+      "region": "Flooded Courtyard",
+      "category": [
+        "Flooded Courtyard"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Canteen upgrade ..",
+      "region": "Flooded Courtyard",
+      "category": [
+        "Flooded Courtyard"
+      ],
+      "requires": "|TNT| OR |Shield| and |Canteen|"
+    },
+    {
+      "region": "Twin Outposts",
+      "name": "idol under the ramp",
+      "category": [
+        "Twin Outposts"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "idol on top of the hut",
+      "region": "Twin Outposts",
+      "category": [
+        "Twin Outposts"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Twin Outposts",
+      "name": "Explorer in the hut",
+      "category": [
+        "Twin Outposts"
+      ],
+      "requires": "(|Sprint| and |TNT|) OR (|Sling| AND |Sprint|) OR (|TRIPPLE JUMP| AND |TNT|) OR (|Sling| AND |TRIPPLE JUMP|)"
+    },
+    {
+      "region": "Turtle Monument",
+      "name": "idol in pot",
+      "category": [
+        "Turtle Monument"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Idol around the corner",
+      "region": "Turtle Monument",
+      "category": [
+        "Turtle Monument"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Turtle Monument",
+      "name": "Dive",
+      "category": [
+        "Turtle Monument"
+      ],
+      "requires": "|DARK ROOM| OR |Torch|"
+    },
+    {
+      "name": "Explorer behind the crystal",
+      "region": "Turtle Monument",
+      "category": [
+        "Turtle Monument"
+      ],
+      "requires": "|DARK ROOM| OR |Torch|"
+    },
+    {
+      "name": "idol behind the waterfall",
+      "region": "Butterfly Glade",
+      "category": [
+        "Butterfly Glade"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Canteen upgrade ",
+      "region": "Butterfly Glade",
+      "category": [
+        "Butterfly Glade"
+      ],
+      "requires": "|Gas Mask| OR |TNT| and |Canteen|"
+    },
+    {
+      "region": "Native Village",
+      "name": "Shield",
+      "category": [
+        "Native Village"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Sling game",
+      "region": "Native Village",
+      "category": [
+        "Native Village"
+      ],
+      "requires": "|Sling|"
+    },
+    {
+      "name": "TNT game",
+      "region": "Native Village",
+      "category": [
+        "Native Village"
+      ],
+      "requires": "|TNT|"
+    },
+    {
+      "name": "Bowling",
+      "region": "Native Village",
+      "category": [
+        "Native Village"
+      ],
+      "requires": "|Raft|"
+    },
+    {
+      "region": "Native Village",
+      "name": "Smash strike game",
+      "category": [
+        "Native Village"
+      ],
+      "requires": "|Smash Strike|"
+    },
+    {
+      "name": "Pickaxe game",
+      "region": "Native Village",
+      "category": [
+        "Native Village"
+      ],
+      "requires": "|Pickaxes|"
+    },
+    {
+      "name": "Idol in the mud",
+      "region": "Renegade Fort",
+      "category": [
+        "Renegade Fort"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Canteen upgrade ...",
+      "region": "Renegade Fort",
+      "category": [
+        "Renegade Fort"
+      ],
+      "requires": "|Canteen|"
+    },
+    {
+      "name": "Explorer behind native",
+      "region": "Renegade Fort",
+      "category": [
+        "Renegade Fort"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Idol on the windmill",
+      "region": "Renegade Headquarters",
+      "category": [
+        "Renegade Headquarters"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Canteen upgrade ....",
+      "region": "Renegade Headquarters",
+      "category": [
+        "Renegade Headquarters"
+      ],
+      "requires": "|Canteen|"
+    },
+    {
+      "name": "Gas Mask",
+      "region": "Renegade Headquarters",
+      "category": [
+        "Renegade Headquarters"
+      ],
+      "requires": "|Shield| OR |Sling| OR |TNT|"
+    },
+    {
+      "name": "Explorer behind wall",
+      "region": "Renegade Headquarters",
+      "category": [
+        "Renegade Headquarters"
+      ],
+      "requires": "|TNT|"
+    },
+    {
+      "name": "Idol behind the ice",
+      "region": "Penguin Den",
+      "category": [
+        "Penguin Den"
+      ],
+      "requires": "|TNT|"
+    },
+    {
+      "name": "Smash Strike",
+      "region": "White Valley",
+      "category": [
+        "White Valley"
+      ],
+      "requires": "|TNT| OR |TRIPPLE JUMP| OR (|Raft| AND |Pickaxes|)"
+    },
+    {
+      "name": "Explorer across the icy water",
+      "region": "White Valley",
+      "category": [
+        "White Valley"
+      ],
+      "requires": "|Raft|"
+    },
+    {
+      "name": "idol on the upper ledge",
+      "region": "White Valley",
+      "category": [
+        "White Valley"
+      ],
+      "requires": "(|RAFT JUMP| AND |Raft|) OR |Pickaxes| OR |TRIPPLE JUMP|"
+    },
+    {
+      "name": "idol under the rubble",
+      "region": "White Valley",
+      "category": [
+        "White Valley"
+      ],
+      "requires": "|TNT| OR |Smash Strike| OR (|Pickaxes| AND |TAZZING|)"
+    },
+    {
+      "name": "Raft",
+      "region": "Cavern Lake",
+      "category": [
+        "Cavern Lake"
+      ],
+      "requires": "|Sling| OR |TNT| OR |TRIPPLE JUMP|"
+    },
+    {
+      "name": "Explorer in the penguins",
+      "region": "Cavern Lake",
+      "category": [
+        "Cavern Lake"
+      ],
+      "requires": "|Pickaxes|"
+    },
+    {
+      "name": "Super Sling",
+      "region": "Cavern Lake",
+      "category": [
+        "Cavern Lake"
+      ],
+      "requires": "|Raft|"
+    },
+    {
+      "name": "Idol in dark room",
+      "region": "Underground Dam",
+      "category": [
+        "Underground Dam"
+      ],
+      "requires": "|DARK ROOM| OR |Torch|"
+    },
+    {
+      "name": "Idol below the shaman",
+      "region": "Underground Dam",
+      "category": [
+        "Underground Dam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Breakdance",
+      "region": "Underground Dam",
+      "category": [
+        "Underground Dam"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Blow up the debree",
+      "region": "Crystal Cavern",
+      "category": [
+        "Crystal Cavern"
+      ],
+      "requires": "|TNT|"
+    },
+    {
+      "name": "Mystery Item",
+      "region": "Crystal Cavern",
+      "category": [
+        "Crystal Cavern"
+      ],
+      "requires": "|TNT|"
+    },
+    {
+      "name": "Idol on top of the room",
+      "region": "Eyes of Doom",
+      "category": [
+        "Eyes of Doom"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Beat the scorpion temple",
+      "region": "Eyes of Doom",
+      "category": [
+        "Eyes of Doom"
+      ],
+      "requires": "|Torch|"
+    },
+    {
+      "name": "Pickaxes",
+      "region": "Mountain Overlook",
+      "category": [
+        "Mountain Overlook"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Idol stuck behind the ice",
+      "region": "Mountain Overlook",
+      "category": [
+        "Mountain Overlook"
+      ],
+      "requires": "(|Sling| AND |Pickaxes|) OR (|Pickaxes| AND |TNT|) OR (|Sling| AND |TRIPPLE JUMP|) OR (|Pickaxes| AND |TRIPPLE JUMP|)"
+    },
+    {
+      "name": "Idol in the spinja room",
+      "region": "Spinjas Lair",
+      "category": [
+        "Spinjas Lair"
+      ],
+      "requires": "|Raft| AND |Pickaxes|"
+    },
+    {
+      "name": "Idol on the ice",
+      "region": "Spinjas Lair",
+      "category": [
+        "Spinjas Lair"
+      ],
+      "requires": "|Raft| AND |Pickaxes|"
+    },
+    {
+      "name": "Idol under the ice",
+      "region": "Viracocha Monoliths",
+      "category": [
+        "Viracocha Monoliths"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Idol in the open",
+      "region": "Viracocha Monoliths",
+      "category": [
+        "Viracocha Monoliths"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Penguin Temple",
+      "region": "Viracocha Monoliths",
+      "category": [
+        "Viracocha Monoliths"
+      ],
+      "requires": "|Pickaxes|"
+    },
+    {
+      "name": "Jungle Notes",
+      "region": "Viracocha Monoliths",
+      "category": [
+        "Viracocha Monoliths"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Kill the snowbowlers",
+      "region": "Viracocha Monoliths",
+      "category": [
+        "Viracocha Monoliths"
+      ],
+      "requires": "|TNT| OR |Pickaxes| OR |Breakdance|"
+    },
+    {
+      "name": "Idol on the cliff",
+      "region": "Valley of Spirits",
+      "category": [
+        "Valley of Spirits"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Idol in the ice",
+      "region": "Valley of Spirits",
+      "category": [
+        "Valley of Spirits"
+      ],
+      "requires": "|TNT| OR |Sling|"
+    },
+    {
+      "name": "Idol in the ice 1",
+      "region": "Ekko Ice Cavern",
+      "category": [
+        "Ekko ice Cavern"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Idol in the ice 2",
+      "region": "Ekko Ice Cavern",
+      "category": [
+        "Ekko ice Cavern"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Idol in the ice 3",
+      "region": "Ekko Ice Cavern",
+      "category": [
+        "Ekko ice Cavern"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Explorer in the ice",
+      "region": "Ekko Ice Cavern",
+      "category": [
+        "Ekko ice Cavern"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Idol in the maze 1",
+      "region": "Ekko Ice Cavern",
+      "category": [
+        "Ekko ice Cavern"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Idol in the maze 2",
+      "region": "Ekko Ice Cavern",
+      "category": [
+        "Ekko ice Cavern"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Idol in the maze 3",
+      "region": "Ekko Ice Cavern",
+      "category": [
+        "Ekko ice Cavern"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Idol in the maze 4",
+      "region": "Ekko Ice Cavern",
+      "category": [
+        "Ekko ice Cavern"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Cavern Notes",
+      "region": "Ekko Ice Cavern",
+      "category": [
+        "Ekko ice Cavern"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "idol on the pillar",
+      "region": "Copacanti Lake",
+      "category": [
+        "Copacanti Lake"
+      ],
+      "requires": "|Pickaxes| OR (|Raft| AND |RAFT JUMP|)"
+    },
+    {
+      "name": "idol next to the statue",
+      "region": "Copacanti Lake",
+      "category": [
+        "Copacanti Lake"
+      ],
+      "requires": "|TRIPPLE JUMP| OR |Pickaxes| OR (|Raft| AND |RAFT JUMP|)"
+    },
+    {
+      "name": "Explorer in the mouth of the statue",
+      "region": "Copacanti Lake",
+      "category": [
+        "Copacanti Lake"
+      ],
+      "requires": "|Pickaxes|"
+    },
+    {
+      "name": "Idol on the race",
+      "region": "Mountain Sled Run",
+      "category": [
+        "Mountain Sled run"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Native notes",
+      "region": "Mountain Sled Run",
+      "category": [
+        "Mountain Sled run"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Beat Spinjas",
+      "region": "Apu Illapu Shrine",
+      "category": [
+        "Apu Illapu Shrine"
+      ],
+      "requires": "|TNT| OR |Sling| OR |Pickaxes| OR (|Shield| AND |NPC MANIP|)"
+    },
+    {
+      "name": "Idol in the mirror tent",
+      "region": "St Claires",
+      "category": [
+        "St Claires"
+      ],
+      "requires": "|TNT| OR (|Pickaxes| AND |TAZZING|)"
+    },
+    {
+      "name": "Explorer in cage",
+      "region": "St Claires",
+      "category": [
+        "St Claires"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Idol in scorpion room",
+      "region": "St Claires",
+      "category": [
+        "St Claires"
+      ],
+      "requires": "|TNT| OR (|Pickaxes| AND |TAZZING|)"
+    },
+    {
+      "name": "Beat ST Claires",
+      "region": "St Claires",
+      "category": [
+        "St Claires"
+      ],
+      "requires": "|Altar|"
+    },
+    {
+      "name": "Idol in tent",
+      "region": "Fire Bombed Towers",
+      "category": [
+        "Fire Bombed Towers"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Explorer on pillar",
+      "region": "Fire Bombed Towers",
+      "category": [
+        "Fire Bombed Towers"
+      ],
+      "requires": "|TNT|"
+    },
+    {
+      "name": "PUSCA",
+      "victory": true,
+      "region": "Fire Bombed Towers",
+      "category": [
+        "Fire Bombed Towers"
+      ],
+      "requires": "|TNT| AND |Chameleon| AND |Altar| AND |St Claire| AND |MONKE| AND |SCORPION| AND |PENGUIN|"
+    },
+    {
+      "region": "Turtle Monument",
+      "name": "Mountain notes",
+      "category": [
+        "Turtle Monument"
+      ],
+      "requires": ""
+    }
+  ]
+}
